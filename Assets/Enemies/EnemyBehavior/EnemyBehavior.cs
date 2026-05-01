@@ -16,7 +16,6 @@ public class EnemyBehavior : MonoBehaviour, IDamageable
     int damage;
     float speed;
 
-
     //Spawn variables
     public SpawnState spawnState;
     Coroutine blinkCoroutine;
